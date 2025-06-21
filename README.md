@@ -1,4 +1,4 @@
-# Optimized Contact Manager
+# Contact Manager
 
 A high-performance contact management system with O(log n) operations using balanced BST (map) and hash maps (unordered_map).
 
